@@ -1,0 +1,21 @@
+# never publish these
+.env
+*.key
+*.pem
+*.pfx
+id_rsa*
+id_ed25519*
+*.elf
+*.raw
+*.vmem
+*.dmp
+*.vdi
+*.vmdk
+*.ova
+*.E01
+*.pcap
+*.pcapng
+.venv/
+venv/
+__pycache__/
+state/
